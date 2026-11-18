@@ -14,7 +14,6 @@ public class Contacto {
         this.esFavorito = esFavorito;
     }
 
-    // En este caso me dio la curiosidad de usar los getters para mas simplicidad, pero tambien se puede hacer por medio de retornos
     public String getNombre() {
         return nombre;
     }
