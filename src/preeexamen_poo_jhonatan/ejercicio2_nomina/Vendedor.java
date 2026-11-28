@@ -1,4 +1,4 @@
-package examen_poo_jhonatan.ejercicio2_nomina;
+package preeexamen_poo_jhonatan.ejercicio2_nomina;
 
 public class Vendedor extends EmpleadoFijo{
     private double comision;
@@ -11,6 +11,6 @@ public class Vendedor extends EmpleadoFijo{
     // Reutiliza super.salario() (el sueldo fijo del padre) y le suma la comision
     @Override
     public double salario() {
-        return super.salario() * this.comision;
+        return super.salario() + this.comision;
     }
 }

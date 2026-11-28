@@ -1,4 +1,4 @@
-package examen_poo_jhonatan.ejercicio3_cuenta;
+package preeexamen_poo_jhonatan.ejercicio3_cuenta;
 
 public class MainBancario {
     public static void main(String[] args) {

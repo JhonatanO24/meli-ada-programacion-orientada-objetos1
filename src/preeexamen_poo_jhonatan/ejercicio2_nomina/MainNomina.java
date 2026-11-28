@@ -1,4 +1,4 @@
-package examen_poo_jhonatan.ejercicio2_nomina;
+package preeexamen_poo_jhonatan.ejercicio2_nomina;
 
 import java.util.ArrayList;
 import java.util.List;

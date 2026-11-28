@@ -1,4 +1,4 @@
-package examen_poo_jhonatan.ejercicio3_cuenta;
+package preeexamen_poo_jhonatan.ejercicio3_cuenta;
 
 public class CuentaBancaria {
     // Hueco 1 cerrado: 'saldo' es private (antes era public), evitando alteraciones externas

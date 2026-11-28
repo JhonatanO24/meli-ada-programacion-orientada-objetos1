@@ -1,4 +1,4 @@
-package examen_poo_jhonatan.ejercicio1_estacionamiento;
+package preeexamen_poo_jhonatan.ejercicio1_estacionamiento;
 
 public class MainEstacionamiento {
     public static void main(String[] args) {

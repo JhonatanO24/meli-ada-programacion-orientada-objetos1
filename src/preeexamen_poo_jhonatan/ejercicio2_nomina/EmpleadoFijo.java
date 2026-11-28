@@ -1,4 +1,4 @@
-package examen_poo_jhonatan.ejercicio2_nomina;
+package preeexamen_poo_jhonatan.ejercicio2_nomina;
 
 public class EmpleadoFijo  extends Empleado {
     private double salarioMensual;

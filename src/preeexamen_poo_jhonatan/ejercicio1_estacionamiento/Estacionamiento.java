@@ -1,4 +1,4 @@
-package examen_poo_jhonatan.ejercicio1_estacionamiento;
+package preeexamen_poo_jhonatan.ejercicio1_estacionamiento;
 
 public class Estacionamiento {
     // Atributos privados: la capacidad seria fija (osea final) y ocupados se protegera de alteraciones externas
